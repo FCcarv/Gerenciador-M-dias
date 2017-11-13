@@ -1,0 +1,10 @@
+.wrap{
+    position: relative;
+    width: 700px;
+    top: 50px;
+    margin: 0 auto;
+        
+}
+textarea{
+    width: 100%;
+}
